@@ -1,3 +1,3 @@
 # librejmap
 
-[LLDAP Deplyyment Guide](https://hub.docker.com/r/lldap/lldap)
+[LLDAP Deployment Guide](https://hub.docker.com/r/lldap/lldap)
